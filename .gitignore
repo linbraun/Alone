@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+braunLindsey_Alone/Content/AloneLevelAssets/Landscape/PebblyRiverbank/T_Tile_PebblyRiverbank_D_R.uasset
+braunLindsey_Alone/Content/AloneLevelAssets/Landscape/PebblyRiverbank/T_Tile_PebblyRiverbank_N.uasset
