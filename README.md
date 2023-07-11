@@ -39,3 +39,6 @@ Developer, Gameplay Programmer, Environment Designer, Level Designer, UI/UX Desi
 - Equip Objects To Character
 - Check For End Level Criteria
 - 2D & 3D Asset Designs
+
+### Demo
+[Download](https://lindseybraun.itch.io/alone)
