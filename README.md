@@ -1,3 +1,4 @@
+[Portfolio](https://portfolio.lindseybraun.com/#alone) &nbsp;| &nbsp;[Download](https://lindseybraun.itch.io/alone)
 # Alone
 "Alone" is a meticulously crafted level that I designed and developed myself, reflecting my ongoing exploration and growth in environment and level design. It immerses players in an eerie and abandoned setting, while offering an engaging mystery adventure gameplay experience. By carefully exploring their surroundings, players uncover hidden interactions and discover meaningful dialogue that propels the captivating storyline. These discoveries serve as the key to progressing through the level and ultimately unlocking an escape plan.
 
@@ -39,6 +40,3 @@ Developer, Gameplay Programmer, Environment Designer, Level Designer, UI/UX Desi
 - Equip Objects To Character
 - Check For End Level Criteria
 - 2D & 3D Asset Designs
-
-### Demo
-[Download](https://lindseybraun.itch.io/alone)
